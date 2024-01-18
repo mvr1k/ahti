@@ -1,0 +1,12 @@
+
+
+#details related to the server
+server_host: "localhost"
+server_port: 3000
+
+
+database_host: "localhost"
+database_port: 5432
+database_user: "postgres"
+database_password: "postgres"
+database_name: "ahti"
